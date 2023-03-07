@@ -1,0 +1,5 @@
+1.Add Levels
+2.Add Lives
+3.Add random drops
+4.Add random effects
+5.Add speed resultant increase/decrease
